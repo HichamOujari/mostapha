@@ -548,6 +548,7 @@ section .title::after{
     font-size: 20px;
 }
 
+
 .social_compte .fa:hover{
     color:rgb(236, 88, 117);
     cursor: pointer;
@@ -834,6 +835,11 @@ footer span a:hover{
      .mynavbar{
            max-width: 690px;
     }
+    .hobbies{
+        width:90vw;
+        width:90vw;
+        text-align: center;
+    }
 }
 
 @media (max-width: 500px) {
@@ -864,5 +870,9 @@ footer span a:hover{
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+    }
+    .hobbies{
+        width:90vw;
+        text-align: center;
     }
 }
